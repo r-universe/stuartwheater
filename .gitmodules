@@ -5,3 +5,6 @@
 [submodule "dsBase"]
 	path = dsBase
 	url = https://github.com/stuartwheater/dsbase
+[submodule "dsBaseClient"]
+	path = dsBaseClient
+	url = https://github.com/stuartwheater/dsbaseclient
